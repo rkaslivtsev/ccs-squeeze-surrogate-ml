@@ -73,7 +73,7 @@ If you use this code or dataset in your research, please cite the preprint and Z
   author  = {Kaslivtsev, Roman},
   title   = {Near-Wellbore Salt Precipitation and Geochemical Scaling During CO2 Injection into Depleted Reservoirs: Mechanisms, Surrogate Predictive Modeling, and Preventive Squeeze Strategies},
   year    = {2026},
-  note    = {EarthArXiv Preprint, DOI: <insert-EarthArXiv-DOI>}
+  note    = {EarthArXiv Preprint, DOI: }
 }
 ```
 
