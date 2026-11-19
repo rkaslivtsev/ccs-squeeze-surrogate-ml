@@ -1,0 +1,7 @@
+Target,Model,CV_R2_Mean,CV_R2_Std,Train_R2,Test_R2,Test_RMSE,Test_MAE,Test_MRPE_pct,Time_sec
+Perm_Impairment (%),Linear Regression,0.7554,0.0087,0.7588,0.7416,4.14,2.893,31.65,0.28
+Perm_Impairment (%),Random Forest,0.9473,0.0069,0.9895,0.9514,1.795,1.097,8.98,2.84
+Perm_Impairment (%),XGBoost (Hist),0.9581,0.0025,0.9998,0.9635,1.557,0.877,7.55,9.59
+Protection_Volume (kt),Linear Regression,0.4775,0.1042,0.4867,0.4932,947.376,373.46,67.88,0.05
+Protection_Volume (kt),Random Forest,0.879,0.0377,0.9738,0.9062,407.592,137.028,25.36,2.11
+Protection_Volume (kt),XGBoost (Hist),0.8749,0.0344,0.9994,0.962,259.45,89.085,21.73,8.77
